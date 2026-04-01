@@ -190,7 +190,7 @@ export default function Welcome({ auth, services, barbers }) {
             <section id="gallery" className="py-32 bg-white dark:bg-zinc-950 relative z-10 border-t border-b border-gray-100 dark:border-zinc-900">
                 <div className="container mx-auto px-6 max-w-7xl">
                     <motion.div initial="hidden" whileInView="visible" viewport={{ once: true }} variants={fadeUp} className="text-center mb-16">
-                        <h2 className="text-5xl md:text-6xl font-black uppercase tracking-tight mb-6">Style <span className="text-amber-500">Gallery</span></h2>
+                        <h2 className="text-5xl md:text-6xl font-black uppercase tracking-tight mb-6">Style <span className="text-amber-500">Gallerys</span></h2>
                         <p className="text-xl text-gray-500 dark:text-gray-400 font-light max-w-2xl mx-auto">Explore our portfolio. Every cut is a masterpiece crafted with precision.</p>
                     </motion.div>
 
